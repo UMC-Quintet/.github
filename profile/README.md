@@ -1,5 +1,6 @@
 ![프레젠테이션1](https://github.com/UMC-Quintet/.github/assets/127360730/85c4a155-bb99-481f-a558-7533af1ecfc6)
 
+<br>
 
 ## 프로젝트 소개
 
@@ -47,7 +48,7 @@
 <table>
   <tbody>
      <tr>
-      <td align="center"><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/b346a7a8-1e69-4de2-afe1-c453f18fdece" alt=""/><br /><sub><b>[PM : 이유영](https://github.com/YuyoungRhee)</b></sub><br /></td>
+      <td align="center"><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/b346a7a8-1e69-4de2-afe1-c453f18fdece" alt=""/><br /><sub><b>PM : 이유영</b></sub><br /></td>
       <td align="center"><a href=""><img width="100px;" src="" alt=""/><br /><sub><b>디자이너: 이정윤</b></sub></a><br /></td>
      <tr/>
     <tr>
