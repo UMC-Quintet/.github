@@ -52,17 +52,13 @@
 
 |      FE 팀장 김필규       |         FE 김영준         |       FE 이동현         |       FE 옥재은       |                                                                                                                
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   <img width="100px" src="" />    |                      <img width="100px" src="" />    |                   <img width="100px" src="https://github.com/UMC-Quintet/.github/assets/127360730/f3cdae45-ffac-4dc3-8d95-da918eb9b6b1"/>   |                       <img width="100px" src="" />    | 
-|   [@Phil_9](https://github.com/pingu00)   |    [@Yjooon](https://github.com/Yjooon)  |[@taipaise](https://github.com/taipaise)  | |[@jaen-923](https://github.com/jaen-923)  | 
+|   <img width="100px" src="https://github.com/UMC-Quintet/.github/assets/127360730/bead6dd7-a620-4d8a-8e19-1f4f41db72e6" />    |                      <img width="100px" src="https://github.com/UMC-Quintet/.github/assets/127360730/ad5536bd-a68e-4b56-8c68-d0c1a1ab0915" />    |                   <img width="100px" src="https://github.com/UMC-Quintet/.github/assets/127360730/f3cdae45-ffac-4dc3-8d95-da918eb9b6b1"/>   |                       <img width="100px" src="https://github.com/UMC-Quintet/.github/assets/127360730/8b6aa51d-d81f-44d4-98eb-6bcf60303e7e" />    | 
+|   [@Phil_9](https://github.com/pingu00)   |    [@Yjooon](https://github.com/Yjooon)  |[@taipaise](https://github.com/taipaise)  | [@jaen-923](https://github.com/jaen-923)  | 
 
 |      BE 팀장 정현조       |
 | :------------------------------------------------------------------------------: |
 |   <img width="100px" src="https://github.com/UMC-Quintet/.github/assets/127360730/0b0d8fdf-fa33-403d-96a7-678a48c61ac1" />    |  
 |   [@Jayde1012](https://github.com/ariha1982)   | 
-
-
-
-
 
 <br>
 <br>
