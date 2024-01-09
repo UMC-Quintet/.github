@@ -10,9 +10,10 @@
 
 
 **퀸텟에서 정의하는 행복의 5요소**   
-
-   `_“삶이란 다섯 개의 공을 돌리는 저글링 게임이다”_ - 더글라스 대프트, 코카콜라 CEO 취임
-   - 건강, 가족, 관계, 일, 자산`
+```
+   _“삶이란 다섯 개의 공을 돌리는 저글링 게임이다”_ - 더글라스 대프트, 코카콜라 CEO 취임
+   - 건강, 가족, 관계, 일, 자산
+```
 
 퀸텟은 이러한 5요소를 매일 기록하고, 나의 행복을 시각적으로 확인할 수 있도록 도와주는 서비스 입니다.
 
@@ -30,8 +31,27 @@
 - 통계에 따른 조언 제공을 통해 사용자가 균형 잡힌 삶을 살 수 있도록 도움   
 
 
+## 개발 기간
+1차 개발 기간: 2023.07~2023.08
+2차 개발 기간: 2023.09~
 
 ## 팀 소개
+<table>
+  <tbody>
+     <tr>
+      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>PM : 이유영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>디자이너: 이정윤</b></sub></a><br /></td>
+     <tr/>
+    <tr>
+      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : 김필규</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김영준</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 :이동현 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 옥재은</b></sub></a><br /></td>
+     <tr/>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀장 : 정현조</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
