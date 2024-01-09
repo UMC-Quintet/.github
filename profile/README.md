@@ -51,7 +51,7 @@
       <td align="center"><a href=""><img width="100px;" src="" alt=""/><br /><sub><b>디자이너: 이정윤</b></sub></a><br /></td>
      <tr/>
     <tr>
-      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : 김필규</b></sub></a><br /></td>
+      <td align="center"><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : 김필규</b></sub><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김영준</b></sub></a><br /></td>
       <td align="center"><a href=""><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/f3cdae45-ffac-4dc3-8d95-da918eb9b6b1" alt=""/><br /><sub><b>FE 팀원 :이동현 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 옥재은</b></sub></a><br /></td>
@@ -61,6 +61,8 @@
   </tbody>
 </table>
 
+<br>
+<br>
 
 ## ⚙️ 기술 스택
 ### ✔️Frond-end
