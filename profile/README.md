@@ -47,16 +47,16 @@
 <table>
   <tbody>
      <tr>
-      <td align="center"><a href="https://github.com/YuyoungRhee" style=" text-decoration:none;"><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/b346a7a8-1e69-4de2-afe1-c453f18fdece" alt=""/><br /><sub><b>PM : 이유영</b></sub></a><br /></td>
+      <td align="center"><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/b346a7a8-1e69-4de2-afe1-c453f18fdece" alt=""/><br /><sub><b>[PM : 이유영](https://github.com/YuyoungRhee)</b></sub><br /></td>
       <td align="center"><a href=""><img width="100px;" src="" alt=""/><br /><sub><b>디자이너: 이정윤</b></sub></a><br /></td>
      <tr/>
     <tr>
       <td align="center"><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : 김필규</b></sub><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김영준</b></sub></a><br /></td>
-      <td align="center"><a href=""><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/f3cdae45-ffac-4dc3-8d95-da918eb9b6b1" alt=""/><br /><sub><b>FE 팀원 :이동현 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 옥재은</b></sub></a><br /></td>
+      <td align="center"<img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김영준</b></sub><br /></td>
+      <td align="center"><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/f3cdae45-ffac-4dc3-8d95-da918eb9b6b1" alt=""/><br /><sub><b>FE 팀원 :이동현 </b></sub><br /></td>
+      <td align="center"><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 옥재은</b></sub><br /></td>
      <tr/>
-      <td align="center"><a href=""><img src="https://github.com/UMC-Quintet/.github/assets/127360730/0b0d8fdf-fa33-403d-96a7-678a48c61ac1" width="100px;" alt=""/><br /><sub><b>BE 팀장 : 정현조</b></sub></a><br /></td>
+      <td align="center"><img src="https://github.com/UMC-Quintet/.github/assets/127360730/0b0d8fdf-fa33-403d-96a7-678a48c61ac1" width="100px;" alt=""/><br /><sub><b>BE 팀장 : 정현조</b></sub><br /></td>
     </tr>
   </tbody>
 </table>
