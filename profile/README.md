@@ -5,13 +5,14 @@
 
 ## 프로젝트 소개
 
-<div align="center">
-   <img width="200" alt="KakaoTalk_Photo_2023-08-22-22-10-58" src="https://github.com/UMC-Quintet/.github/assets/127360730/f63e8239-affd-40c1-902c-1d8729a88f81">
-</div>
 
-**퀸텟에서 정의하는 행복의 5요소**
-   _“삶이란 다섯 개의 공을 돌리는 저글링 게임이다”_ - 더글라스 대프트, 코카콜라 CEO 취임
-   - 건강, 가족, 관계, 일, 자산
+   <img width="200" alt="KakaoTalk_Photo_2023-08-22-22-10-58" src="https://github.com/UMC-Quintet/.github/assets/127360730/f63e8239-affd-40c1-902c-1d8729a88f81">
+
+
+**퀸텟에서 정의하는 행복의 5요소**   
+
+   `_“삶이란 다섯 개의 공을 돌리는 저글링 게임이다”_ - 더글라스 대프트, 코카콜라 CEO 취임
+   - 건강, 가족, 관계, 일, 자산`
 
 퀸텟은 이러한 5요소를 매일 기록하고, 나의 행복을 시각적으로 확인할 수 있도록 도와주는 서비스 입니다.
 
