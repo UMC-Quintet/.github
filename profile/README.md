@@ -20,7 +20,7 @@
 
 <br>
 
-### 📌주요 기능
+### 📌 주요 기능
 #### 1. 퀸텟 체크
 - 간단한 설문조사 형식으로 체크 가능
 - 5개의 요소 모두 체크 후 체크 완료 버튼 누르기
@@ -47,7 +47,7 @@
 <table>
   <tbody>
      <tr>
-      <td align="center"><a href=""><img width="100px;" src= alt=""/><br /><sub><b>PM : 이유영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/b346a7a8-1e69-4de2-afe1-c453f18fdece" alt=""/><br /><sub><b><span style="text-decoration: none;">PM : 이유영</span></b></sub></a><br /></td>
       <td align="center"><a href=""><img width="100px;" src="" alt=""/><br /><sub><b>디자이너: 이정윤</b></sub></a><br /></td>
      <tr/>
     <tr>
