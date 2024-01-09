@@ -1,4 +1,4 @@
-![이동현프로필](https://github.com/UMC-Quintet/.github/assets/127360730/4c2a3ba5-8449-4a26-be73-a7868f3c4a29)![swift](https://github.com/UMC-Quintet/.github/assets/127360730/2371e722-7817-43b6-978c-83f726064b6d)![nodedotjs](https://github.com/UMC-Quintet/.github/assets/127360730/4cd6a201-b085-427f-9b08-d190bc04efae)# 퀸텟: Quintet
+
 
 ![프레젠테이션1](https://github.com/UMC-Quintet/.github/assets/127360730/85c4a155-bb99-481f-a558-7533af1ecfc6)
 
