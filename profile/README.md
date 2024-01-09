@@ -1,4 +1,4 @@
-# 퀸텟: Quintet
+![swift](https://github.com/UMC-Quintet/.github/assets/127360730/2371e722-7817-43b6-978c-83f726064b6d)![nodedotjs](https://github.com/UMC-Quintet/.github/assets/127360730/4cd6a201-b085-427f-9b08-d190bc04efae)# 퀸텟: Quintet
 
 ![프레젠테이션1](https://github.com/UMC-Quintet/.github/assets/127360730/85c4a155-bb99-481f-a558-7533af1ecfc6)
 
@@ -8,16 +8,16 @@
 
    <img width="200" alt="KakaoTalk_Photo_2023-08-22-22-10-58" src="https://github.com/UMC-Quintet/.github/assets/127360730/f63e8239-affd-40c1-902c-1d8729a88f81">
 
-
+<br>
 **퀸텟에서 정의하는 행복의 5요소**   
 ```
-   _“삶이란 다섯 개의 공을 돌리는 저글링 게임이다”_ - 더글라스 대프트, 코카콜라 CEO 취임
-   - 건강, 가족, 관계, 일, 자산
+   • “삶이란 다섯 개의 공을 돌리는 저글링 게임이다” - 더글라스 대프트, 코카콜라 CEO 취임
+   • 건강, 가족, 관계, 일, 자산
 ```
 
 퀸텟은 이러한 5요소를 매일 기록하고, 나의 행복을 시각적으로 확인할 수 있도록 도와주는 서비스 입니다.
 
-### 주요 기능
+### 📌주요 기능
 #### 1. 퀸텟 체크
 - 간단한 설문조사 형식으로 체크 가능
 - 5개의 요소 모두 체크 후 체크 완료 버튼 누르기
@@ -52,6 +52,16 @@
     </tr>
   </tbody>
 </table>
+
+
+## ⚙️ 기술 스택
+### ✔️Frond-end
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+
+### ✔️Back-end
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+
+
 
 
 
