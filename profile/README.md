@@ -9,7 +9,7 @@
 
 <br>
 
-### 퀸텟에서 정의하는 행복의 5요소 
+### 5️⃣ 퀸텟에서 정의하는 행복의 5요소 
 
 ```
    “삶이란 다섯 개의 공을 돌리는 저글링 게임이다” - 더글라스 대프트, 코카콜라 CEO 취임
@@ -37,18 +37,25 @@
 <br>
 <br>
 
-## 개발 기간
+## 🕰 개발 기간
 1차 개발 기간: 2023.07 - 2023.08    
 2차 개발 기간: 2023.09 - 현재
 
 <br>
 <br>
 
-## 팀 소개
+## 👥 팀 소개
+|      이유영       |          이정윤         |                                                                                                              
+| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   <img width="100px" src="https://github.com/UMC-Quintet/.github/assets/127360730/b346a7a8-1e69-4de2-afe1-c453f18fdece" />    |                      <img width="160px" src="" />    |
+|   [@YuyoungRhee](https://github.com/YuyoungRhee)   |  | 
+| PM | 디자이너 | 
+
+
 <table>
   <tbody>
      <tr>
-      <td align="center"><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/b346a7a8-1e69-4de2-afe1-c453f18fdece" alt=""/><br /><sub><b>PM : 이유영</b></sub><br /></td>
+      <td align="center"><img width="100px;" src="" alt=""/><br /><sub><b>PM : 이유영</b></sub><br /></td>
       <td align="center"><a href=""><img width="100px;" src="" alt=""/><br /><sub><b>디자이너: 이정윤</b></sub></a><br /></td>
      <tr/>
     <tr>
