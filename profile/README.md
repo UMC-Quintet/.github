@@ -1,4 +1,4 @@
-![swift](https://github.com/UMC-Quintet/.github/assets/127360730/2371e722-7817-43b6-978c-83f726064b6d)![nodedotjs](https://github.com/UMC-Quintet/.github/assets/127360730/4cd6a201-b085-427f-9b08-d190bc04efae)# 퀸텟: Quintet
+![이동현프로필](https://github.com/UMC-Quintet/.github/assets/127360730/4c2a3ba5-8449-4a26-be73-a7868f3c4a29)![swift](https://github.com/UMC-Quintet/.github/assets/127360730/2371e722-7817-43b6-978c-83f726064b6d)![nodedotjs](https://github.com/UMC-Quintet/.github/assets/127360730/4cd6a201-b085-427f-9b08-d190bc04efae)# 퀸텟: Quintet
 
 ![프레젠테이션1](https://github.com/UMC-Quintet/.github/assets/127360730/85c4a155-bb99-481f-a558-7533af1ecfc6)
 
@@ -9,7 +9,9 @@
    <img width="200" alt="KakaoTalk_Photo_2023-08-22-22-10-58" src="https://github.com/UMC-Quintet/.github/assets/127360730/f63e8239-affd-40c1-902c-1d8729a88f81">
 
 <br>
+
 **퀸텟에서 정의하는 행복의 5요소**   
+
 ```
    • “삶이란 다섯 개의 공을 돌리는 저글링 게임이다” - 더글라스 대프트, 코카콜라 CEO 취임
    • 건강, 가족, 관계, 일, 자산
@@ -32,20 +34,21 @@
 
 
 ## 개발 기간
-1차 개발 기간: 2023.07~2023.08
+1차 개발 기간: 2023.07~2023.08    
 2차 개발 기간: 2023.09~
 
 ## 팀 소개
+
 <table>
   <tbody>
      <tr>
-      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>PM : 이유영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img width="100px;" src= alt=""/><br /><sub><b>PM : 이유영</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>디자이너: 이정윤</b></sub></a><br /></td>
      <tr/>
     <tr>
       <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : 김필규</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김영준</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 :이동현 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img width="100px;" src="https://github.com/UMC-Quintet/.github/assets/127360730/f3cdae45-ffac-4dc3-8d95-da918eb9b6b1" alt=""/><br /><sub><b>FE 팀원 :이동현 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 옥재은</b></sub></a><br /></td>
      <tr/>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀장 : 정현조</b></sub></a><br /></td>
